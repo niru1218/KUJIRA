@@ -2,9 +2,9 @@
 
 /* すべてのWebページに適用される */
 body {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-	background-color: #f5f3eb;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: #FFCCE5;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
